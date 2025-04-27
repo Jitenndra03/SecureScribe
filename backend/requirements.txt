@@ -1,0 +1,7 @@
+Flask
+easyocr
+presidio-analyzer
+presidio-anonymizer
+opencv-python
+Pillow
+pdf2image

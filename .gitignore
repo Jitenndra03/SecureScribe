@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+slug/*
+pii_detection/__pycache__/*
+api/*
